@@ -1,0 +1,104 @@
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918&family=Comfortaa:wght@300;500;700&family=Pattaya&display=swap');
+
+body{
+	font-family: 'Brygada 1918', serif;
+	line-height: 1.65;
+}
+
+#heading{
+	font-family: 'Pattaya', sans-serif;
+	font-size: 60px;
+	text-align: center;
+	color: #6b705c;
+	margin-top: 50px;
+}
+
+h2{
+	font-family: 'Comfortaa', cursive;
+	font-size: 30px;
+	text-align: center;
+	color: #a5a58d;
+	margin: 35px 0 20px 0;
+}
+.summary-item{
+	display: inline-block;
+	color: #9e9e7f;
+	text-decoration: underline;
+	font-family: 'Comfortaa', cursive;
+	margin: 0 45px 0;
+}
+.summary{
+	margin: 30px 0 0 0 ;
+}
+div.introduction{
+	max-width: 65%;
+	/* line-height: 1.6; */
+	padding-top: 75px;
+   margin: auto;
+   display: inline-block;
+}
+
+.img-litle-prince{
+	height: 400px;
+	width: 400px;
+	margin: 50px 20px 0 20px ;
+}
+p{
+	text-indent:50px;
+}
+div.history{
+	max-width: 700px;
+	max-height: 50px;
+	margin: 0 0 0 75px;
+	display: inline-block;
+}
+div.plot{
+	max-width: 700px;
+	max-height: 450px;
+	padding: 0 0 0 50px;
+	display: inline-block;
+	overflow: auto;
+}
+a{
+	text-decoration: underline;
+	color: rgb(33, 66, 33);
+}
+
+h4{
+	color: #b7b7a4;
+	font-size: 25px;
+	text-align: center;
+	padding-top: 1%;
+}
+
+div.translation,
+div.prototypes,
+div.screening
+{
+	max-width: 90%;
+	margin: 0px auto 20px;
+}
+div.translation span{
+	display: block;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+	margin: 1% 0 2% 0;
+}
+
+.publications-list{
+	display: inline-block;
+	margin: 0 45px 20px;
+
+}
+.center {  
+	text-align: center;  
+	}  
+
+.image-block{
+	width: 60%;
+	height: 60%;
+	margin-bottom: 1.5%;
+	
+}
