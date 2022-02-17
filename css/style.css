@@ -1,5 +1,6 @@
 @import "null.css";
 @import url('https://fonts.googleapis.com/css2?family=Brygada+1918&family=Comfortaa:wght@300;500;700&family=Pattaya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
 
 body{
 	font-family: 'Brygada 1918', serif;
@@ -102,4 +103,52 @@ div.translation span{
 	margin-bottom: 1.5%;
 	
 }
+/* ================Article style================================ */
+.article{
+	height: 1594px;
+	width: 810px;
+	margin: 152px 765px 0 345px;
+	font-family: 'Lato', sans-serif;
+	
 
+}
+.article-h1{
+	font-weight: 900;
+	font-size: 46px;
+	margin: 203px 0 101px;
+}
+.article-image{
+	margin-bottom: 70px;
+}
+
+.article-p{
+	text-indent: 0 
+}
+.bold-paragraph{
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.5;
+	margin-bottom: 24px;
+}
+.ordinar-font{
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5;
+}
+.second-paragraf{
+	margin-bottom: 35px;
+}
+.third-paragraph{
+	margin-bottom: 55px;
+}
+.article-quote{
+	padding-left: 58px;
+	margin: 55px 0;
+}
+.list{
+	line-height: 1.6;
+	margin: 36px 0 36px 37px;
+}
+.list-items{
+	margin-bottom: 4px;
+}
