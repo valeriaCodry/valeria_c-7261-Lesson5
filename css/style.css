@@ -12,15 +12,15 @@ body{
 	font-size: 60px;
 	text-align: center;
 	color: #6b705c;
-	margin-top: 50px;
+	padding: 70px;
 }
 
-h2{
+.h2-little-prince{
 	font-family: 'Comfortaa', cursive;
 	font-size: 30px;
 	text-align: center;
 	color: #a5a58d;
-	margin: 35px 0 20px 0;
+	padding: 35px 0 20px 0;
 }
 .summary-item{
 	display: inline-block;
@@ -45,12 +45,11 @@ div.introduction{
 	width: 400px;
 	margin: 50px 20px 0 20px ;
 }
-p{
+.p-little-prince{
 	text-indent:50px;
 }
 div.history{
 	max-width: 700px;
-	max-height: 50px;
 	margin: 0 0 0 75px;
 	display: inline-block;
 }
@@ -61,12 +60,12 @@ div.plot{
 	display: inline-block;
 	overflow: auto;
 }
-a{
+.a-little-prince{
 	text-decoration: underline;
 	color: rgb(33, 66, 33);
 }
 
-h4{
+.h4-little-prince{
 	color: #b7b7a4;
 	font-size: 25px;
 	text-align: center;
@@ -85,7 +84,7 @@ div.translation span{
 	text-align: center;
 	font-weight: bold;
 	text-decoration: underline;
-	margin: 1% 0 2% 0;
+	padding: 1% 0 2% 0;
 }
 
 .publications-list{
